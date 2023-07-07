@@ -1,4 +1,4 @@
-* Email to the Product lead at Fetch regarding data check:
+<u> Email to the Product lead at Fetch regarding data check: </u>
 
 Hi James,
 
